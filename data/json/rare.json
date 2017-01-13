@@ -1,0 +1,31 @@
+{
+  "Items": {
+    "item": [
+      {
+        "name": "Law rune",
+        "quantity": 45,
+        "chance": 128
+      },
+      {
+        "name": "Death rune",
+        "quantity": 45,
+        "chance": 128
+      },
+      {
+        "name": "Nature rune",
+        "quantity": 67,
+        "chance": 128
+      },
+      {
+        "name": "Steel arrow",
+        "quantity": 150,
+        "chance": 128
+      },
+      {
+        "name": "Rune arrow",
+        "quantity": 42,
+        "chance": 128
+      }
+    ]
+  }
+}

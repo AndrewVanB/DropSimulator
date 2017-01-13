@@ -1,0 +1,239 @@
+{
+  "Items": [
+    {
+      "name": "Tanzanite fang",
+      "quantity": 1,
+      "chance": 512
+    },
+    {
+      "name": "Magic fang",
+      "quantity": 1,
+      "chance": 512
+    },
+    {
+      "name": "Serpentine visage",
+      "quantity": 1,
+      "chance": 512
+    },
+    {
+      "name": "Uncut onyx",
+      "quantity": 1,
+      "chance": 512
+    },
+    {
+      "name": "Dragon med helm",
+      "quantity": 1,
+      "chance": 256
+    },
+    {
+      "name": "Dragon halberd",
+      "quantity": 1,
+      "chance": 256
+    },
+    {
+      "name": "Law Rune",
+      "quantity": 200,
+      "chance": 8
+    },
+    {
+      "name": "Death Rune",
+      "quantity": 300,
+      "chance": 16
+    },
+    {
+      "name": "Chaos Rune",
+      "quantity": 500,
+      "chance": 16
+    },
+    {
+      "name": "Pure essence",
+      "quantity": 1500,
+      "chance": 32
+    },
+    {
+      "name": "Toadflax",
+      "quantity": 20,
+      "chance": 128
+    },
+    {
+      "name": "Snapdragon",
+      "quantity": 20,
+      "chance": 128
+    },
+    {
+      "name": "Dwarf weed",
+      "quantity": 20,
+      "chance": 128
+    },
+    {
+      "name": "Torstol",
+      "quantity": 20,
+      "chance": 128
+    },
+    {
+      "name": "Flax",
+      "quantity": 1000,
+      "chance": 16
+    },
+    {
+      "name": "Snakeskin",
+      "quantity": 35,
+      "chance": 16
+    },
+    {
+      "name": "Dragon bolt tips",
+      "quantity": 12,
+      "chance": 16
+    },
+    {
+      "name": "Magic logs",
+      "quantity": 100,
+      "chance": 16
+    },
+    {
+      "name": "Coal ore",
+      "quantity": 300,
+      "chance": 64
+    },
+    {
+      "name": "Runite ore",
+      "quantity": 10,
+      "chance": 64
+    },
+    {
+      "name": "Magic seed",
+      "quantity": 1,
+      "chance": 64
+    },
+    {
+      "name": "Calquat tree seed",
+      "quantity": 2,
+      "chance": 32
+    },
+    {
+      "name": "Papaya tree seed",
+      "quantity": 2,
+      "chance": 32
+    },
+    {
+      "name": "Toadflax seed",
+      "quantity": 2,
+      "chance": 128
+    },
+    {
+      "name": "Snapdragon seed",
+      "quantity": 2,
+      "chance": 128
+    },
+    {
+      "name": "Dwarf weed seed",
+      "quantity": 2,
+      "chance": 128
+    },
+    {
+      "name": "Torstol seed",
+      "quantity": 2,
+      "chance": 256
+    },
+    {
+      "name": "Spirit seed",
+      "quantity": 1,
+      "chance": 256
+    },
+    {
+      "name": "Crystal seed",
+      "quantity": 1,
+      "chance": 256
+    },
+    {
+      "name": "Zul-andra teleport",
+      "quantity": 1,
+      "chance": 8
+    },
+    {
+      "name": "Dragon bones",
+      "quantity": 30,
+      "chance": 16
+    },
+    {
+      "name": "Coconut",
+      "quantity": 20,
+      "chance": 16
+    },
+    {
+      "name": "Graps",
+      "quantity": 250,
+      "chance": 16
+    },
+    {
+      "name": "Zulrah's scales",
+      "quantity": 500,
+      "chance": 32
+    },
+    {
+      "name": "Battlestaff",
+      "quantity": 10,
+      "chance": 32
+    },
+    {
+      "name": "Antidote++ (4)",
+      "quantity": 10,
+      "chance": 32
+    },
+    {
+      "name": "Raw shark",
+      "quantity": 100,
+      "chance": 32
+    },
+    {
+      "name": "Mahogany plank",
+      "quantity": 50,
+      "chance": 32
+    },
+    {
+      "name": "Swamp tar",
+      "quantity": 1000,
+      "chance": 32
+    },
+    {
+      "name": "Saradomin brew (4)",
+      "quantity": 10,
+      "chance": 32
+    },
+    {
+      "name": "Adamantite bar",
+      "quantity": 25,
+      "chance": 32
+    },
+    {
+      "name": "Rare drop table",
+      "quantity": 1,
+      "chance": 32
+    },
+    {
+      "name": "Clue scroll (Elite)",
+      "quantity": 1,
+      "chance": 75
+    },
+    {
+      "name": "Jar of swamp",
+      "quantity": 1,
+      "chance": 3000
+    },
+    {
+      "name": "Pet snakeling",
+      "quantity": 1,
+      "chance": 4000
+    },
+    {
+      "name": "Tanzanite mutagen",
+      "quantity": 1,
+      "chance": 6554
+    },
+    {
+      "name": "Magma mutagen",
+      "quantity": 1,
+      "chance": 6554
+    }
+  ]
+}
