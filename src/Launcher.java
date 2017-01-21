@@ -31,8 +31,17 @@ public class Launcher {
                  * Get chance, do formula to get drop chance percent
                   *
                  */
-                rand = (int) Math.random() * 100;
-                System.out.println(result.getItems().get(1).getName());
+                System.out.println("NPC: Zulrah");
+                System.out.println("Total items in list: "+result.getItems().size()+"\n");
+                int count = 0;
+                for(int i = 0; i<4; i++) {
+                    count++;
+                    rand = (int) (Math.random() * result.getItems().size());
+                    System.out.println("Item ID: "+rand);
+                    System.out.println(result.getItems().get(rand).getName());
+                    System.out.println();
+                }
+                System.out.println("Randomized "+count+" items.");
             }
 
         } catch (FileNotFoundException e) {
